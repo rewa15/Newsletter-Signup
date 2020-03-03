@@ -41,7 +41,7 @@ app.post("/", function(req,res)
     const options =
     {
     	method: "POST",
-    	auth: "rewa:985dc29d4e916e905a4a2333fa9f82a9-us19"
+    	auth: "<some string>: API Key"
     }
     const request = https.request(url, options, function(response)    // https request used for sending request to external server mailchimp
     {
