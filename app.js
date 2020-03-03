@@ -74,3 +74,6 @@ app.listen(process.env.PORT || 3000); // process.env.PORT is for
 //28114fad7d
 
 //{"name":"Freddie'\''s Favorite Hats","contact":{"company":"Mailchimp","address1":"675 Ponce De Leon Ave NE","address2":"Suite 5000","city":"Atlanta","state":"GA","zip":"30308","country":"US","phone":""},"permission_reminder":"You'\''re receiving this email because you signed up for updates about Freddie'\''s newest hats.","campaign_defaults":{"from_name":"Freddie","from_email":"freddie@freddiehats.com","subject":"","language":"en"},"email_type_option":true}
+
+// App deployed on Heroku Server: link
+//https://tranquil-peak-60218.herokuapp.com/
