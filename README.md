@@ -1,6 +1,7 @@
 # Newsletter-Signup
 
 A Node.js application using the MailChimp Server API that allows users to Sign-Up on my website
+![email](https://user-images.githubusercontent.com/26508129/76707141-db079180-6712-11ea-8843-b738716dc79f.gif)
 
 
 ## 🔹 Node Packages to install
@@ -12,6 +13,18 @@ A Node.js application using the MailChimp Server API that allows users to Sign-U
 ***3. npm install request***
 ###
 ***4. npm install https***
+###
+
+
+## 🔹 Setting up account on MailChimp Server API
+###
+***1. Go to https://mailchimp.com/developer/***
+###
+***2. Create a new account as a developer.***
+###
+***3. Head over to API documentation section and generate API key for you for substituting it in your code.***
+###
+***4. Follow the API Documentation and grab more knowledge!***
 ###
 
 ## 🎴 Preview of the application:
